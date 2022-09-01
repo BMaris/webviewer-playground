@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  pdfTronLicense: 'Aiimi Ltd(aiimi.com):OEM:Compliance Companion::B+:AMS(20220531):5DB59D3204F7C80A7360B13AC982537B60612FDDD778BD8AA5CD458AC52289AE5ADAB6F5C7'
+  pdfTronLicense: ''
 };
 
 /*
